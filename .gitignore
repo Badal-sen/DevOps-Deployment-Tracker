@@ -10,3 +10,9 @@ terraform/*.tfstate.backup
 
 .DS_Store
 .vscode/
+
+devops-tracker-task.json
+task-definition.json
+
+terraform/devops-tracker-task.json
+terraform/task-definition.json
